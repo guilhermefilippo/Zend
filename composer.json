@@ -1,6 +1,7 @@
 {
-    "name": "guilhermefilippo/zend",
-    "description": "Zend Framework",
+    "name": "Zend",
+    "type": "zend-library",
+    "description": "Zend Framework 1.12",
     "authors": [
         {
             "name": "Guilherme Filippo",
@@ -8,7 +9,6 @@
         }
     ],
     "require": {
-	     "php": " >= 5.3",
-       "composer/installers": "~1.0"
+	     "php": " >= 5.3"
     }
 }
