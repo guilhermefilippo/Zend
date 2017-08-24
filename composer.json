@@ -1,5 +1,5 @@
 {
-    "name": "Zend",
+    "name": "guilhermefilippo/zend",
     "type": "zend-library",
     "description": "Zend Framework 1.12",
     "authors": [
