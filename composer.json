@@ -1,0 +1,11 @@
+{
+    "name": "guilhermefilippo/zend",
+    "description": "Zend Framework",
+    "authors": [
+        {
+            "name": "Guilherme Filippo",
+            "email": "guilherme@macromind.com.br"
+        }
+    ],
+    "require": {}
+}
