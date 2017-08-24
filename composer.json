@@ -1,11 +1,14 @@
 {
     "name": "guilhermefilippo/zend",
     "description": "Zend Framework",
+    "prefer-stable" : true,
     "authors": [
         {
             "name": "Guilherme Filippo",
             "email": "guilherme@macromind.com.br"
         }
     ],
-    "require": {}
+    "require": {
+	"php": " >= 5.3"
+    }
 }
